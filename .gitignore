@@ -1,0 +1,18 @@
+# Python compilation junk
+__pycache__/
+*.pyc
+
+# Virtual Environment (CRITICAL)
+portfolio_env/
+.venv/
+venv/
+
+# Environment Variables (CRITICAL)
+.env
+
+# VS Code Settings
+.vscode/
+*.session.sql
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
